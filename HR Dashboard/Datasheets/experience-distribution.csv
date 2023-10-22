@@ -1,0 +1,456 @@
+department,jobtitle,COUNT,Experience
+Engineering,"Business Systems Development Analyst",22,SENIOR
+Services,"Service Manager",9,EXPERIENCED
+"Human Resources","Senior Recruiter",14,SENIOR
+"Business Development","Business Analyst",35,SENIOR
+"Human Resources","HR Manager",10,SENIOR
+Sales,"Relationshiop Manager",13,SENIOR
+Services,"Service Tech III",21,SENIOR
+Auditing,"Internal Auditor",5,SENIOR
+"Human Resources",Recruiter,24,SENIOR
+Training,"Training Manager",9,SENIOR
+Engineering,"Programmer III",2,SENIOR
+Accounting,"Cost Accountant",19,SENIOR
+Engineering,"Software Test Engineer III",2,EXPERIENCED
+Accounting,"Staff Accountant IV",7,SENIOR
+Engineering,"Software Engineer III",8,SENIOR
+"Research and Development","Research Assistant I",11,SENIOR
+Engineering,"Data Visualization Specialist",13,EXPERIENCED
+Engineering,"Senior Developer",10,EXPERIENCED
+"Business Development","Research Assistant I",6,EXPERIENCED
+"Business Development","Research Assistant II",36,SENIOR
+Engineering,"Developer IV",4,SENIOR
+"Product Management","Business Analyst",6,SENIOR
+"Human Resources","Human Resources Analyst",30,SENIOR
+"Human Resources","Senior Recruiter",6,FRESHER
+Accounting,"Accounting Assistant I",6,SENIOR
+Engineering,"Developer III",2,EXPERIENCED
+"Human Resources","Human Resources Analyst II",20,EXPERIENCED
+Accounting,"Administrative Officer",2,SENIOR
+"Product Management","Design Engineer",1,FRESHER
+Engineering,"Data Visualization Specialist",40,SENIOR
+Training,"Trainer II",2,FRESHER
+Accounting,"Budget/Accounting Analyst IV",20,SENIOR
+"Research and Development","Research Associate",14,SENIOR
+Engineering,"Software Engineer I",24,SENIOR
+Engineering,"Senior Developer",24,SENIOR
+"Business Development","Research Assistant I",19,SENIOR
+Engineering,"Analyst Programmer",12,EXPERIENCED
+"Product Management","Project Manager",23,SENIOR
+Support,"Help Desk Technician",7,FRESHER
+Engineering,"Analyst Programmer",17,SENIOR
+"Research and Development","Structural Engineer",3,EXPERIENCED
+Accounting,"Staff Accountant I",22,SENIOR
+Engineering,"Business Systems Development Analyst",10,EXPERIENCED
+Support,"Support Staff II",2,FRESHER
+Training,"Trainer II",10,SENIOR
+"Business Development","Research Assistant II",8,FRESHER
+Services,"Service Manager",20,SENIOR
+Engineering,"Engineer II",1,SENIOR
+Engineering,"Web Developer I",2,FRESHER
+Sales,"Account Manager",8,SENIOR
+"Human Resources","Human Resources Analyst II",33,SENIOR
+Legal,"Senior Attorney",3,SENIOR
+Training,"Administrative Assistant I",15,SENIOR
+Accounting,"Staff Accountant III",1,FRESHER
+Sales,"Account Executive",7,FRESHER
+Accounting,"Staff Accountant I",10,EXPERIENCED
+Accounting,"Accountant IV",2,FRESHER
+Marketing,"Media Manager I",8,SENIOR
+Training,"Training Manager",4,EXPERIENCED
+Sales,"Solutions Engineer",20,SENIOR
+Engineering,"Software Engineer I",13,EXPERIENCED
+Services,"Service Coordinator",24,SENIOR
+Engineering,"Automation Specialist I",1,EXPERIENCED
+Training,"Senior Trainer",8,SENIOR
+"Research and Development","Quality Control Specialist",4,SENIOR
+Engineering,"Software Engineer I",7,FRESHER
+"Research and Development","Structural Engineer",20,SENIOR
+Engineering,"Quality Control Specialist",4,SENIOR
+Training,"Trainer I",1,EXPERIENCED
+Services,"Service Tech",26,SENIOR
+"Research and Development",Operator,9,FRESHER
+Support,"Desktop Support Technician",4,FRESHER
+Training,"Training Manager",5,FRESHER
+Engineering,"Systems Administrator I",8,EXPERIENCED
+Accounting,"Accountant III",8,SENIOR
+Engineering,"Database Administrator II",2,FRESHER
+Training,"Assistant Trainer",4,EXPERIENCED
+Engineering,"Data Coordiator",22,SENIOR
+Sales,"Account Executive",11,EXPERIENCED
+Accounting,"Accountant I",2,EXPERIENCED
+Engineering,"Software Engineer II",2,FRESHER
+Accounting,"Tax Accountant",23,SENIOR
+Accounting,"Financial Analyst",1,EXPERIENCED
+Engineering,"Computer Systems Analyst II",5,SENIOR
+"Research and Development",Operator,10,SENIOR
+Engineering,"Programmer IV",5,SENIOR
+Engineering,"Programmer Analyst III",5,SENIOR
+"Business Development","Research Assistant I",6,FRESHER
+Support,"Help Desk Operator",1,FRESHER
+Training,"Content Developer II",5,SENIOR
+Services,"Service Tech III",4,FRESHER
+"Research and Development","Senior Quality Engineer",6,SENIOR
+"Product Management","Quality Control Specialist",1,FRESHER
+Accounting,"Budget/Accounting Analyst III",10,SENIOR
+Sales,"Solutions Engineer Manager",6,EXPERIENCED
+Training,"Content Developer",5,SENIOR
+Engineering,"Software Engineer IV",8,SENIOR
+"Research and Development","Research Assistant I",4,FRESHER
+Training,"Senior Trainer",7,EXPERIENCED
+Accounting,"Budget/Accounting Analyst IV",6,FRESHER
+Marketing,"Senior Editor",1,EXPERIENCED
+Engineering,"Database Administrator IV",2,SENIOR
+Accounting,"Accountant I",6,SENIOR
+Training,"Junior Trainer",18,SENIOR
+Sales,"Account Executive",38,SENIOR
+Engineering,"Web Developer I",8,SENIOR
+Sales,"Solutions Engineer Manager",16,SENIOR
+Engineering,"Programmer III",2,EXPERIENCED
+Sales,"Customer Success Manager",14,SENIOR
+Support,"Support Staff",4,SENIOR
+Engineering,"Business Systems Development Analyst",4,FRESHER
+Engineering,"Statistician III",1,EXPERIENCED
+Accounting,"Senior Cost Accountant",6,FRESHER
+Support,"Community Outreach Specialist",3,SENIOR
+Engineering,"Computer Systems Analyst IV",2,EXPERIENCED
+"Research and Development","Office Assistant II",1,SENIOR
+Support,"Desktop Support Technician",7,EXPERIENCED
+Training,"Junior Trainer",7,FRESHER
+Marketing,Editor,3,EXPERIENCED
+Engineering,"Software Test Engineer III",3,FRESHER
+Accounting,"Payment Adjustment Coordinator",1,FRESHER
+Engineering,"Systems Administrator I",23,SENIOR
+Engineering,"Chief Design Engineer",7,SENIOR
+"Business Development","Research Assistant III",1,FRESHER
+Legal,Paralegal,7,SENIOR
+"Product Management","Project Manager",9,FRESHER
+Accounting,"Budget/Accounting Analyst I",2,FRESHER
+Accounting,"Budget/Accounting Analyst I",7,EXPERIENCED
+Support,"Automation Specialist IV",1,EXPERIENCED
+Engineering,"Software Consultant",22,SENIOR
+Legal,"Legal Assistant",2,SENIOR
+Accounting,"Accounting Assistant IV",4,FRESHER
+Accounting,"Cost Accountant",4,FRESHER
+Training,"Trainer III",6,FRESHER
+Engineering,"Developer I",6,SENIOR
+"Research and Development","Senior Quality Engineer",3,EXPERIENCED
+Engineering,"Research Associate",2,SENIOR
+Services,Operator,2,FRESHER
+"Product Management","Project Manager",7,EXPERIENCED
+Marketing,"Administrative Assistant II",1,SENIOR
+Engineering,"Computer Systems Analyst I",5,SENIOR
+Services,Operator,1,SENIOR
+Engineering,"Software Test Engineer II",2,EXPERIENCED
+Training,"Administrative Assistant I",8,FRESHER
+Engineering,"Systems Administrator II",5,SENIOR
+Engineering,"Computer Systems Analyst IV",5,SENIOR
+Legal,"Research Assistant",1,FRESHER
+Accounting,"Budget/Accounting Analyst II",6,SENIOR
+Engineering,"Programmer I",3,FRESHER
+Services,"Service Tech II",15,SENIOR
+Engineering,"Programmer I",4,EXPERIENCED
+Accounting,"Budget/Accounting Analyst II",3,FRESHER
+Engineering,"Staff Scientist",2,FRESHER
+Engineering,"Chief Design Engineer",3,EXPERIENCED
+Sales,"Sales Associate",1,EXPERIENCED
+Support,"Help Desk Technician",15,SENIOR
+Accounting,"Accounting Assistant II",2,EXPERIENCED
+Engineering,"Software Test Engineer III",5,SENIOR
+Support,"Help Desk Technician",8,EXPERIENCED
+Engineering,"Software Engineer III",3,FRESHER
+"Research and Development",Operator,4,EXPERIENCED
+Training,"Trainer III",12,SENIOR
+Engineering,"Analog Circuit Design manager",3,SENIOR
+Accounting,"Cost Accountant",5,EXPERIENCED
+Engineering,"Systems Administrator I",5,FRESHER
+Sales,"Customer Success Manager",11,FRESHER
+"Human Resources","HR Manager",8,FRESHER
+Engineering,"Engineer II",1,EXPERIENCED
+Accounting,"Accounting Assistant IV",7,SENIOR
+"Product Management","Design Engineer",1,EXPERIENCED
+Engineering,"Senior Developer",4,FRESHER
+Engineering,"Database Administrator III",2,EXPERIENCED
+"Research and Development","Structural Engineer",3,FRESHER
+Engineering,"Web Developer IV",2,EXPERIENCED
+"Human Resources","Human Resources Analyst",9,FRESHER
+Services,"Service Tech",9,EXPERIENCED
+Training,"Content Developer",1,FRESHER
+Accounting,"Financial Analyst",7,SENIOR
+Services,"Service Coordinator",7,FRESHER
+Training,"Assistant Trainer",8,SENIOR
+Accounting,"Staff Accountant III",3,EXPERIENCED
+"Product Management","General Manager",1,FRESHER
+"Business Development","Business Analyst",7,FRESHER
+Engineering,"Software Test Engineer I",2,EXPERIENCED
+Engineering,"Business Analyst",6,SENIOR
+"Research and Development","Research Assistant I",9,EXPERIENCED
+Engineering,"Systems Administrator IV",4,EXPERIENCED
+Engineering,"Engineer I",1,FRESHER
+"Human Resources","Human Resources Assistant I",3,SENIOR
+Marketing,Editor,6,SENIOR
+Training,"Senior Trainer",5,FRESHER
+"Product Management","Quality Engineer",1,FRESHER
+Accounting,"Staff Accountant II",6,SENIOR
+Accounting,"Staff Accountant III",6,SENIOR
+Engineering,"Software Test Engineer II",6,SENIOR
+Services,"Service Coordinator",3,EXPERIENCED
+Engineering,"Design Engineer",1,EXPERIENCED
+Services,"Service Tech II",10,EXPERIENCED
+Training,"Support Staff",2,EXPERIENCED
+Engineering,"Mechanical Systems Engineer",1,FRESHER
+Accounting,"Accountant IV",6,SENIOR
+Engineering,"Programmer Analyst II",4,SENIOR
+Engineering,"Data Visualization Specialist",5,FRESHER
+Accounting,"Administrative Assistant II",1,SENIOR
+Engineering,"Business Analyst",3,EXPERIENCED
+Accounting,"Structural Engineer",2,SENIOR
+Engineering,"Product Engineer",1,FRESHER
+Engineering,"Web Developer III",1,EXPERIENCED
+Engineering,"Software Consultant",7,FRESHER
+"Business Development","Business Analyst",16,EXPERIENCED
+Legal,"Executive Assistant",4,SENIOR
+Engineering,"Data Coordiator",8,FRESHER
+Engineering,"Senior Financial Analyst",3,SENIOR
+Engineering,"Administrative Officer",3,SENIOR
+"Research and Development","Senior Quality Engineer",2,FRESHER
+Training,"Assistant Trainer",5,FRESHER
+Legal,"Administrative Assistant",3,FRESHER
+Accounting,"Accounting Assistant III",2,EXPERIENCED
+Sales,"Pre-Sales Consultant",9,EXPERIENCED
+Accounting,"Senior Cost Accountant",21,SENIOR
+Sales,"Relationshiop Manager",4,EXPERIENCED
+Engineering,"Developer IV",2,EXPERIENCED
+Support,"Help Desk Operator",4,SENIOR
+"Business Development","Research Assistant II",13,EXPERIENCED
+Engineering,"Software Test Engineer II",1,FRESHER
+Accounting,"Budget/Accounting Analyst III",3,FRESHER
+Engineering,"Analyst Programmer",3,FRESHER
+Services,"Service Tech",5,FRESHER
+Engineering,"Quality Control Specialist",2,EXPERIENCED
+Support,"Automation Specialist III",2,SENIOR
+Accounting,"Staff Accountant I",4,FRESHER
+Support,"Desktop Support Technician",22,SENIOR
+Engineering,"VP Quality Control",1,EXPERIENCED
+Marketing,Editor,3,FRESHER
+Engineering,"Web Developer IV",2,SENIOR
+"Business Development","Research Assistant III",1,SENIOR
+"Research and Development","VP Quality Control",2,SENIOR
+Engineering,"Programmer I",4,SENIOR
+Engineering,"Software Test Engineer IV",2,EXPERIENCED
+Engineering,"Programmer Analyst II",1,FRESHER
+Accounting,"Budget/Accounting Analyst I",7,SENIOR
+Support,"Support Staff",1,FRESHER
+Accounting,"Accountant II",3,EXPERIENCED
+"Product Management","Senior Quality Engineer",2,SENIOR
+Engineering,"Software Test Engineer I",1,FRESHER
+Engineering,"Developer II",6,SENIOR
+Engineering,"Software Consultant",8,EXPERIENCED
+Legal,Librarian,2,SENIOR
+Training,"Support Staff",5,SENIOR
+Legal,"Research Assistant",3,SENIOR
+Engineering,"Software Engineer III",1,EXPERIENCED
+Accounting,"Senior Cost Accountant",9,EXPERIENCED
+Support,"Support Staff II",2,SENIOR
+Training,"Trainer I",4,FRESHER
+Accounting,Actuary,5,SENIOR
+Accounting,"Staff Accountant IV",2,EXPERIENCED
+Engineering,"Product Engineer",3,SENIOR
+"Research and Development","Executive Secretary",1,EXPERIENCED
+Accounting,"Accountant II",5,SENIOR
+"Product Management","Design Engineer",1,SENIOR
+Accounting,"Tax Accountant",11,EXPERIENCED
+Accounting,"Accounting Assistant II",2,FRESHER
+Accounting,"Administrative Officer",1,FRESHER
+Engineering,"Database Administrator I",1,EXPERIENCED
+"Human Resources","Human Resources Analyst II",9,FRESHER
+Engineering,"Administrative Assistant III",1,SENIOR
+Accounting,"Payment Adjustment Coordinator",6,SENIOR
+Engineering,"Programmer Analyst I",4,SENIOR
+Engineering,"Developer III",2,FRESHER
+Training,"Administrative Assistant I",3,EXPERIENCED
+Engineering,"Structural Analysis Engineer",2,EXPERIENCED
+Engineering,"Computer Systems Analyst III",4,SENIOR
+Sales,"Solutions Engineer",5,EXPERIENCED
+"Human Resources","Compensation Analyst",1,SENIOR
+Accounting,"Staff Accountant II",5,EXPERIENCED
+Services,"Service Tech III",8,EXPERIENCED
+Engineering,"Data Coordiator",12,EXPERIENCED
+Engineering,"Database Administrator III",8,SENIOR
+Engineering,"Web Designer IV",1,SENIOR
+"Research and Development","Structural Analysis Engineer",1,EXPERIENCED
+Engineering,"Automation Specialist IV",1,EXPERIENCED
+Services,"General Manager",2,SENIOR
+Engineering,"Research Assistant I",1,FRESHER
+Sales,"Sales Representative",2,SENIOR
+Sales,"Pre-Sales Consultant",2,FRESHER
+Engineering,"VP Quality Control",1,FRESHER
+Engineering,"Computer Systems Analyst I",3,EXPERIENCED
+"Human Resources",Recruiter,4,EXPERIENCED
+Engineering,"Database Administrator IV",1,FRESHER
+Engineering,"Programmer II",3,SENIOR
+Engineering,"Systems Administrator III",4,SENIOR
+Marketing,"Media Manager I",2,FRESHER
+Accounting,"Budget/Accounting Analyst IV",3,EXPERIENCED
+Engineering,"Database Administrator II",1,EXPERIENCED
+Accounting,"Accounting Assistant II",3,SENIOR
+Engineering,"Research Associate",2,EXPERIENCED
+Engineering,"Research Assistant I",5,SENIOR
+Marketing,"Media Manager II",3,SENIOR
+Engineering,"Programmer Analyst I",1,FRESHER
+Engineering,"Software Test Engineer I",7,SENIOR
+Accounting,"Accountant I",1,FRESHER
+Accounting,"Accounting Assistant IV",1,EXPERIENCED
+Engineering,"Database Administrator II",8,SENIOR
+Services,"Service Manager",4,FRESHER
+Engineering,"Software Test Engineer IV",4,SENIOR
+"Human Resources","HR Manager",4,EXPERIENCED
+Legal,"Research Assistant",1,EXPERIENCED
+Engineering,"Systems Administrator IV",4,SENIOR
+Engineering,"Assistant Manager",1,SENIOR
+Training,"Trainer III",6,EXPERIENCED
+Training,"Trainer II",5,EXPERIENCED
+Accounting,"Accounting Assistant I",1,FRESHER
+Engineering,"Quality Engineer",2,EXPERIENCED
+"Research and Development","Financial Analyst",1,SENIOR
+Engineering,"Computer Systems Analyst II",2,EXPERIENCED
+Accounting,"Accountant III",1,EXPERIENCED
+Engineering,"Web Developer II",2,SENIOR
+Engineering,"Database Administrator I",6,SENIOR
+Sales,"Pre-Sales Consultant",11,SENIOR
+Engineering,"Web Designer III",1,SENIOR
+Accounting,"Budget/Accounting Analyst III",4,EXPERIENCED
+Engineering,"Senior Financial Analyst",1,EXPERIENCED
+"Research and Development","Quality Control Specialist",3,EXPERIENCED
+Engineering,"Web Developer II",1,FRESHER
+Marketing,"VP Marketing",2,SENIOR
+Services,"Service Tech II",2,FRESHER
+Engineering,"Information Systems Manager",3,FRESHER
+Engineering,"Systems Administrator III",2,FRESHER
+Engineering,"Web Developer III",7,SENIOR
+Accounting,"Senior Financial Analyst",2,EXPERIENCED
+Legal,Attorney,4,EXPERIENCED
+Accounting,"VP Accounting",4,SENIOR
+Training,"Junior Trainer",4,EXPERIENCED
+Engineering,"Programmer II",1,FRESHER
+Engineering,"Systems Administrator IV",4,FRESHER
+"Human Resources","Human Resources Manager",2,SENIOR
+Legal,Librarian,1,EXPERIENCED
+Training,"Trainer I",7,SENIOR
+Auditing,"Internal Auditor",1,EXPERIENCED
+Engineering,"Web Designer I",5,SENIOR
+Marketing,"Senior Editor",9,SENIOR
+Support,"Help Desk Operator",3,EXPERIENCED
+"Product Management","Quality Control Specialist",1,SENIOR
+Engineering,"Structural Analysis Engineer",1,FRESHER
+Engineering,"Software Engineer IV",3,EXPERIENCED
+Engineering,"Software Engineer IV",1,FRESHER
+Engineering,"Programmer Analyst IV",2,SENIOR
+Engineering,"Electrical Engineer",5,SENIOR
+Engineering,"Structural Engineer",1,SENIOR
+Engineering,"Database Administrator III",3,FRESHER
+Engineering,"Administrative Officer",1,EXPERIENCED
+"Product Management","General Manager",1,EXPERIENCED
+"Human Resources","Human Resources Assistant IV",1,EXPERIENCED
+"Product Management","VP Product Management",1,FRESHER
+Engineering,"Software Engineer II",2,SENIOR
+Engineering,"Programmer III",4,FRESHER
+Engineering,"Developer III",7,SENIOR
+Engineering,"Senior Quality Engineer",2,EXPERIENCED
+Support,"Support Staff II",2,EXPERIENCED
+"Research and Development","Research Associate",2,FRESHER
+Engineering,"Web Developer III",2,FRESHER
+Engineering,"Computer Systems Analyst III",2,EXPERIENCED
+Accounting,"Tax Accountant",7,FRESHER
+Accounting,"Administrative Officer",1,EXPERIENCED
+Sales,"Customer Success Manager",4,EXPERIENCED
+"Human Resources","Human Resources Analyst",6,EXPERIENCED
+"Research and Development","Business Analyst",1,EXPERIENCED
+"Product Management","General Manager",3,SENIOR
+Support,"Automation Specialist IV",1,FRESHER
+Auditing,"Internal Auditor",2,FRESHER
+Engineering,"Computer Systems Analyst II",2,FRESHER
+Legal,"Administrative Assistant",4,EXPERIENCED
+Engineering,"Developer II",1,EXPERIENCED
+Engineering,"Recruiting Manager",1,FRESHER
+Training,"Content Developer III",3,SENIOR
+Engineering,"Computer Systems Analyst IV",2,FRESHER
+Accounting,"Budget/Accounting Analyst II",5,EXPERIENCED
+Engineering,"Programmer II",1,EXPERIENCED
+"Research and Development","Office Assistant I",1,FRESHER
+Engineering,"Programmer Analyst IV",2,EXPERIENCED
+"Product Management","VP Product Management",1,SENIOR
+Accounting,"Administrative Assistant I",1,EXPERIENCED
+Engineering,"Web Developer II",3,EXPERIENCED
+Engineering,"Senior Quality Engineer",1,FRESHER
+Accounting,"Accounting Assistant III",1,FRESHER
+Marketing,"Media Manager II",1,FRESHER
+Engineering,"Research Assistant II",1,SENIOR
+Accounting,"VP Accounting",1,FRESHER
+Services,"General Manager",1,EXPERIENCED
+Training,"Content Developer",3,EXPERIENCED
+Accounting,"Financial Analyst",1,FRESHER
+Sales,"Solutions Engineer Manager",4,FRESHER
+Accounting,"Accountant III",1,FRESHER
+Engineering,"Automation Specialist I",1,SENIOR
+Support,"Support Staff III",2,SENIOR
+Engineering,"Design Engineer",2,SENIOR
+"Human Resources","Senior Recruiter",1,EXPERIENCED
+Legal,"Administrative Assistant",1,SENIOR
+"Human Resources","Human Resources Manager",1,FRESHER
+Engineering,"Web Developer IV",1,FRESHER
+Legal,Librarian,1,FRESHER
+"Product Management","Quality Engineer",1,EXPERIENCED
+Training,"Content Developer III",1,FRESHER
+"Product Management","Chief Design Engineer",1,FRESHER
+Engineering,"Programmer Analyst I",1,EXPERIENCED
+Legal,Attorney,1,SENIOR
+Engineering,"Programmer Analyst II",1,EXPERIENCED
+Engineering,"Software Test Engineer IV",1,FRESHER
+"Product Management","Product Engineer",1,SENIOR
+Engineering,"Programmer IV",2,EXPERIENCED
+Engineering,"Statistician IV",1,SENIOR
+"Human Resources","Human Resources Assistant III",1,SENIOR
+Engineering,"Statistician III",1,SENIOR
+"Human Resources","Compensation Analyst",1,EXPERIENCED
+Sales,"Account Manager",2,FRESHER
+Sales,"Director of Sales",1,EXPERIENCED
+Engineering,"Electrical Engineer",1,FRESHER
+Engineering,"Systems Administrator III",2,EXPERIENCED
+Accounting,"Staff Accountant IV",1,FRESHER
+"Product Management","Assistant Manager",1,SENIOR
+Support,"Automation Specialist II",1,SENIOR
+"Human Resources",Recruiter,1,FRESHER
+Training,"Content Developer III",1,EXPERIENCED
+"Product Management","Quality Engineer",1,SENIOR
+Legal,Paralegal,1,EXPERIENCED
+Engineering,"Programmer IV",2,FRESHER
+Engineering,"Product Engineer",2,EXPERIENCED
+"Research and Development","Statistician II",1,SENIOR
+Training,"Content Developer II",1,EXPERIENCED
+"Human Resources","Human Resources Manager",1,EXPERIENCED
+Services,"Research Associate",1,SENIOR
+Accounting,"VP Accounting",1,EXPERIENCED
+Marketing,"Research Associate",1,FRESHER
+Engineering,"VP Quality Control",1,SENIOR
+Engineering,"Senior Quality Engineer",1,SENIOR
+Marketing,"Graphic Designer",2,SENIOR
+Accounting,"Administrative Assistant I",1,FRESHER
+Engineering,"Staff Scientist",1,SENIOR
+Accounting,"Senior Financial Analyst",1,SENIOR
+Engineering,"Structural Engineer",1,FRESHER
+"Research and Development","Administrative Assistant III",1,EXPERIENCED
+Sales,"Solutions Engineer",1,FRESHER
+Accounting,"Accountant IV",1,EXPERIENCED
+Engineering,"Programmer Analyst III",1,EXPERIENCED
+Accounting,"Accounting Assistant III",1,SENIOR
+Marketing,"VP Marketing",1,EXPERIENCED
+Engineering,"Web Developer I",1,EXPERIENCED
+Engineering,"Web Designer I",1,EXPERIENCED
+"Research and Development","Research Associate",1,EXPERIENCED
+Sales,"Sales Associate",1,FRESHER
+"Product Management","Quality Control Specialist",1,EXPERIENCED
+Engineering,"Database Administrator I",1,FRESHER
+Marketing,"Senior Editor",1,FRESHER
+Accounting,"Financial Advisor",1,SENIOR
+Training,"Administrative Assistant II",1,EXPERIENCED
